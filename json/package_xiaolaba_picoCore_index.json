@@ -5,9 +5,10 @@
       "maintainer": "xiaolaba, fork https://github.com/nerdralph/picoCore",
       "websiteURL": "https://xiaolaba.github.io/picoCore/",
       "email": "xiao_laba_cn@yahoo.com",
+      "json": "https://xiaolaba.github.io/picoCore/package_xiaolaba_picoCore_index.json",
       "help": {
-        "online": "https://github.com/xiaolaba/picoCore",
-        "json": "https://xiaolaba.github.io/picoCore/package_xiaolaba_picoCore_index.json"
+        "online": "https://github.com/xiaolaba/picoCore"
+
       },
       "platforms": [
 
