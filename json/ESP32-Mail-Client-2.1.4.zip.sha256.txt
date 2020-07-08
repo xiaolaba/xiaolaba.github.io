@@ -1,0 +1,3 @@
+SHA256 的 ESP32-Mail-Client-2.1.4.zip 雜湊:
+0c56a94f2225c1d593c9addeec246c54f4db002ac9c15ed9a315346735ad08d0
+CertUtil: -hashfile 命令成功完成。
