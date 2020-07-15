@@ -35,7 +35,7 @@
         {
           "name": "EmailSender test",
           "architecture": "ESP32",
-          "version": "2.0.1",
+          "version": "2.0.0",
           "category": "Contributed",
           "url": "https://github.com/xreef/EMailSender/archive/v2.0.0.zip",
           "archiveFileName": "EMailSender-2.0.0.zip",
