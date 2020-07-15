@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "picoCore",
+      "name": "EmailSender",
       "maintainer": "xiaolaba, fork https://github.com/nerdralph/picoCore",
       "websiteURL": "https://xiaolaba.github.io/picoCore/",
       "email": "xiao_laba_cn@yahoo.com",
@@ -13,7 +13,7 @@
       "platforms": [
 
         {
-          "name": "picoCore",
+          "name": "EmailSender",
           "architecture": "avr",
           "version": "0.2.0",
           "category": "Contributed",
@@ -42,7 +42,7 @@
         },
         
         {
-          "name": "picoCore",
+          "name": "EmailSender",
           "architecture": "avr",
           "version": "0.2.1",
           "category": "Contributed",
