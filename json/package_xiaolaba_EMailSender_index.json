@@ -1,77 +1,60 @@
 {
   "packages": [
     {
-      "name": "picoCore",
-      "maintainer": "xiaolaba, fork https://github.com/nerdralph/picoCore",
-      "websiteURL": "https://xiaolaba.github.io/picoCore/",
+      "name": "EmailSender test",
+      "maintainer": "xiaolaba, fork https://www",
+      "websiteURL": "https://xiaolaba.github.io/",
       "email": "xiao_laba_cn@yahoo.com",
-      "json": "https://xiaolaba.github.io/json/package_xiaolaba_picoCore_index.json",
+      "json": "https://xiaolaba.github.io/json/package_xiaolaba_EMailSender_index.json",
       "help": {
-        "online": "https://github.com/xiaolaba/picoCore"
-
+        "online": "https://wwww"
       },
-      "platforms": [
 
+      "platforms": [
         {
-          "name": "picoCore",
-          "architecture": "avr",
-          "version": "0.2.0",
+          "name": "EmailSender test",
+          "architecture": "ESP32",
+          "version": "2.0.1",
           "category": "Contributed",
-          "url": "https://xiaolaba.github.io/picoCore/release/picoCore-0.2.0.zip",
-          "archiveFileName": "picoCore-0.2.0.zip",
-          "checksum": "SHA-256:911ca4b4f6a6b8617c4876bc96df5e79dbc972bf4a87b3edc1ccb2a6717908db",
-          "size": "6344",
+          "url": "https://github.com/xreef/EMailSender/archive/v2.0.1.zip",
+          "archiveFileName": "EMailSender-2.0.1.zip",
+          "checksum": "SHA-256:01844730ecbd5e210d285e1bc2748ad6fc9f3f76b1cac9f355e1dbf93ad60dac",
+          "size": "80011",
           "boards": [
             {
-              "name": "ATtiny13/A/V"
+              "name": "ESP32-1"
             },
             {
-              "name": "ATtiny25/A/V"
-            },
-            {
-              "name": "ATtiny45/A/V"
-            },
-            {
-              "name": "ATtiny85/A/V"
-            },
-            {
-              "name": "ATtiny13"
+              "name": "ESP32-2"
             }
           ],
           "toolsDependencies": []
         },
-        
+
         {
-          "name": "picoCore",
-          "architecture": "avr",
-          "version": "0.2.1",
+          "name": "EmailSender test",
+          "architecture": "ESP32",
+          "version": "2.0.0",
           "category": "Contributed",
-          "url": "https://xiaolaba.github.io/picoCore/release/picoCore-0.2.1.zip",
-          "archiveFileName": "picoCore-0.2.1.zip",
-          "checksum": "SHA-256:488e78f0dd45af07f35400413eebec9aaec977cc5eb2e381a5950f12d7f23335",
-          "size": "7658",
+          "url": "https://github.com/xreef/EMailSender/archive/v2.0.0.zip",
+          "archiveFileName": "EMailSender-2.0.0.zip",
+          "checksum": "SHA-256:a967511bac1472f31da2864b3d96a757f306b525e07bd5b529cc40d2263cc2d7",
+          "size": "79779",
           "boards": [
             {
-              "name": "ATtiny13/A/V"
+              "name": "ESP32-1"
             },
             {
-              "name": "ATtiny25/A/V"
-            },
-            {
-              "name": "ATtiny45/A/V"
-            },
-            {
-              "name": "ATtiny85/A/V"
-            },
-            {
-              "name": "ATtiny13"
+              "name": "ESP32-2"
             }
           ],
           "toolsDependencies": []
         }
-      ],
+
       "tools": []
     }
   ]
 }
+
+
 
