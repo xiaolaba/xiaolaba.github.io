@@ -1,21 +1,26 @@
+{
+  "libraries": [
     {
-      "name": "xiaolaba test",
-      "version": "0.1.0",
-      "author": "Denys Sene",
-      "maintainer": "Denys Sene",
-      "sentence": "test A simple implementation of Kalman Filter.",
-      "paragraph": "test This is a basic kalman filter library for unidimensional models that you can use with a stream of single values like barometric sensors, temperature sensors or even gyroscope and accelerometers.",
-      "website": "https://github.com/denyssene/SimpleKalmanFilter",
-      "category": "Data Processing",
+      "name": "EMailSender",
+      "version": "2.0.1",
+      "author": "test",
+      "maintainer": "Arduino test",
+      "sentence": "test own library.",
+      "paragraph": "hello",
+      "website": "https://xiaolaba.github.io/",
+      "category": "test lib",
       "architectures": [
-        "*"
+        "ESP32"
       ],
       "types": [
-        "Contributed"
+        "Arduino"
       ],
-      "repository": "https://github.com/denyssene/SimpleKalmanFilter.git",
-      "url": "http://downloads.arduino.cc/libraries/github.com/denyssene/SimpleKalmanFilter-0.1.0.zip",
-      "archiveFileName": "SimpleKalmanFilter-0.1.0.zip",
-      "size": 110990,
-      "checksum": "SHA-256:be41d7a315b4941d376f911de50604b4b0e8a501bafcbf50ad98bdb9329d18f1"
+      "repository": "https://xiaolaba.github.io/EMailSender.git",
+      "url": "https://xiaolaba.github.io/EMailSender-2.0.1.zip",
+      "archiveFileName": "EMailSender-2.0.1.zip",
+      "size": 80011,
+      "checksum": "SHA-256:01844730ecbd5e210d285e1bc2748ad6fc9f3f76b1cac9f355e1dbf93ad60dac"
     }
+    
+  ]
+}
