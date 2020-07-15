@@ -29,7 +29,6 @@
             }
           ],
           "toolsDependencies": []
-          
         },
 
         {
@@ -50,18 +49,11 @@
             }
           ],
           "toolsDependencies": []
-          
-        },
-
-
-
+        }
 
       "tools": []
-
     }
-
   ]
-
 }
 
 
