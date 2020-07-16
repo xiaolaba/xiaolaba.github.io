@@ -10,7 +10,7 @@
         "online": "https://xiaolaba.github.io/EMailSender"
 
       },
-      "platforms": [
+      "libraries": [
 
         {
           "name": "EMailSender",
