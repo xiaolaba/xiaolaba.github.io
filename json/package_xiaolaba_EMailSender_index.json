@@ -59,8 +59,8 @@
           "category": "Contributed",
           "url": "https://github.com/xiaolaba/EMailSender/archive/v0.1.zip",
           "archiveFileName": "EMailSender-0.1.zip",
-          "checksum": "SHA-256:512d5b3d722b1313aa3541e7c1194a29523a2fc56ac020f1fa49adfc2ce77e83",
-          "size": "207738",
+          "checksum": "SHA-256:c3542d209aa097d753b036658d5c7af1f2db317ee6dc4a1cc889de81f989769a",
+          "size": "207429",
           "boards": [
             {
               "name": "ESP32"
