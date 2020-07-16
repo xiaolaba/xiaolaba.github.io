@@ -1,3 +1,0 @@
-SHA256 的 EMailSender-2.0.1.zip 雜湊:
-01844730ecbd5e210d285e1bc2748ad6fc9f3f76b1cac9f355e1dbf93ad60dac
-CertUtil: -hashfile 命令成功完成。
