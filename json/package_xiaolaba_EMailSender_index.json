@@ -50,7 +50,30 @@
             }
           ],
           "toolsDependencies": []
-        }
+        },
+        
+        {
+          "name": "EMailSender",
+          "architecture": "esp",
+          "version": "0.1",
+          "category": "Contributed",
+          "url": "https://github.com/xiaolaba/EMailSender/archive/v0.1.zip",
+          "archiveFileName": "EMailSender-0.1.zip",
+          "checksum": "SHA-256:512d5b3d722b1313aa3541e7c1194a29523a2fc56ac020f1fa49adfc2ce77e83",
+          "size": "207738",
+          "boards": [
+            {
+              "name": "ESP32"
+            },
+            {
+              "name": "ESP8266"
+            }
+          ],
+          "toolsDependencies": []
+        },
+               
+        
+        
       ],
       "tools": []
     }
